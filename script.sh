@@ -1,2 +1,3 @@
 #!/bin/sh
-ls -lart
+cd /home/user
+touch test
